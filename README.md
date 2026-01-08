@@ -6,7 +6,7 @@ I'm a Computer Science student at Dalhousie University, focused on **Data Scienc
 - 🌱 I’m currently diving deeper into **LLM Orchestration (Llama 3)** and **Vector Database Optimization**.
 - 💼 Formerly Data Science Intern at **Unbox Robotics** (Pune).
 - 🎓 Seeking **Summer 2026 Co-op** opportunities in Data Science & Machine Learning.
-- 📫 How to reach me: [LinkedIn](INSERT_YOUR_LINKEDIN_URL_HERE)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdul-rhm)
 
 ---
 
@@ -22,12 +22,12 @@ I'm a Computer Science student at Dalhousie University, focused on **Data Scienc
 
 ### 🚀 Featured Projects
 
-📌 **[Sentient AI Support Agent](LINK_TO_REPO)**
+📌 **[Sentient AI Support Agent](https://github.com/Abdrahim-123/My-n8n-projects)**
 *Autonomous customer support system using **Llama 3**, **n8n**, and **RAG architecture**.*
 - **Tech:** Llama 3 (70B), Supabase (pgvector), n8n, Discord Webhooks.
 - **Key Feature:** "Split-Brain" logic that routes known issues to memory and new issues to an AI reasoning layer.
 
-📌 **[Network Traffic Data Pipeline](LINK_TO_REPO)**
+📌 **[Network Traffic Data Pipeline](https://github.com/Abdrahim-123/Network_Cybersecurity)**
 *High-performance Python tool to parse raw packet data (PCAP) into structured JSONL for security analysis.*
 - **Tech:** Python, Raw Sockets, TCP/IP Parsing.
 - **Key Feature:** Real-time capture engine with custom protocol decoding.
